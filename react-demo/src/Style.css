@@ -1,0 +1,14 @@
+*{ 
+  background-color: rgb(165, 191, 195);
+}
+button{
+  border-radius: 25%;
+  padding: 5px;
+  margin: 5px;
+  background-color: brown;
+  font-size: large;
+  color: aliceblue;
+}
+input{
+  padding: 10px;
+}
